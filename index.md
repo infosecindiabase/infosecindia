@@ -1,6 +1,6 @@
 ## Welcome to Infosecindiabase Project.
 
-//You can use the [editor on GitHub](https://github.com/infosecindiabase/infosecindia/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown //files.
+<!-You can use the [editor on GitHub](https://github.com/infosecindiabase/infosecindia/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown -->files.
 
 //Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -11,15 +11,16 @@ Who we are ...
 ```markdown
 All containts to be published till 2022 jan. 
 
-### Web security     1
-### Api security     2
-### Network security 3
+**Web security     1
+Api security     2
+Network security 3**
 
 ```markdown
 Free Supportive matterial and guide:
 - Instruction Videos
 - Exploitable labs
 - Comunity support
+[link to Google!](http://google.com)
 [link](https://infosecindiabase.github.io/infosecindia/)
 ```
 
