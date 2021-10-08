@@ -1,4 +1,4 @@
-Welcome to Infosecindiabase Project| In support with Infosec :india:
+Welcome to Infosecindiabase Project| In support with Infosec :india_flag:
 ------------ | -------------
 
 #Who we are ... 
@@ -21,7 +21,7 @@ Free Supportive matterial and guide:
 [:india:]( /infosecindia )
 ```
 
-~~For more details see [GitHub Flavored Markdown]~(https://guides.github.com/features/mastering-markdown/).
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
 ~~Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings]
