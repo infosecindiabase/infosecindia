@@ -1,7 +1,4 @@
-# Welcome to Infosecindiabase Project   
-
-:black_circle:
-:black_large_square:
+# 🩸Welcome to Infosecindiabase Project 🩸  
 
 
 ### Who we are ... 
@@ -25,4 +22,4 @@ Network security 3|(/network-security)
 
 # Support or Contact
 DM over [Twitter](https://twitter.com/infosec_india) 
-✳️
+✳️ 
